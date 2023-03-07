@@ -1,0 +1,204 @@
+1678196368: mosquitto version 2.0.15 starting
+1678196368: Config loaded from /mosquitto/config/mosquitto.conf.
+1678196368: Opening ipv4 listen socket on port 1883.
+1678196368: Opening ipv6 listen socket on port 1883.
+1678196368: Opening websockets listen socket on port 1884.
+1678196368: mosquitto version 2.0.15 running
+1678196372: New client connected from ::ffff:172.24.0.1:40582 as user-951c (p2, c1, k60, u'jaouad').
+1678196382: New client connected from ::ffff:172.24.0.1:48032 as user-9723 (p2, c1, k60, u'jaouad').
+1678196729: Client user-951c closed its connection.
+1678196730: New client connected from ::ffff:172.24.0.1:56582 as user-bde4 (p2, c1, k60, u'jaouad').
+1678196742: Client user-9723 closed its connection.
+1678197103: mosquitto version 2.0.15 terminating
+1678197103: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1678197103: Client user-bde4 closed its connection.
+1678197105: mosquitto version 2.0.15 starting
+1678197105: Config loaded from /mosquitto/config/mosquitto.conf.
+1678197105: Opening ipv4 listen socket on port 1883.
+1678197105: Opening ipv6 listen socket on port 1883.
+1678197105: Opening websockets listen socket on port 1884.
+1678197105: mosquitto version 2.0.15 running
+1678197127: mosquitto version 2.0.15 terminating
+1678197127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1678197131: mosquitto version 2.0.15 starting
+1678197131: Config loaded from /mosquitto/config/mosquitto.conf.
+1678197131: Opening ipv4 listen socket on port 1883.
+1678197131: Opening ipv6 listen socket on port 1883.
+1678197131: Opening websockets listen socket on port 1884.
+1678197131: mosquitto version 2.0.15 running
+1678197140: mosquitto version 2.0.15 terminating
+1678197140: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1678197142: mosquitto version 2.0.15 starting
+1678197142: Config loaded from /mosquitto/config/mosquitto.conf.
+1678197142: Opening ipv4 listen socket on port 1883.
+1678197142: Opening ipv6 listen socket on port 1883.
+1678197142: Opening websockets listen socket on port 1884.
+1678197142: mosquitto version 2.0.15 running
+1678197148: New client connected from ::ffff:172.24.0.1:38574 as user-043a (p2, c1, k60, u'jaouad').
+1678197159: Client user-043a closed its connection.
+1678197243: New client connected from ::ffff:172.24.0.1:52030 as user-bde4 (p2, c1, k60, u'jaouad').
+1678197303: Client user-bde4 closed its connection.
+1678197337: New client connected from ::ffff:172.24.0.1:60184 as user-bde4 (p2, c1, k60, u'jaouad').
+1678197337: Client user-bde4 closed its connection.
+1678197338: Client <unknown> closed its connection.
+1678197339: New client connected from ::ffff:172.24.0.1:36880 as user-053e (p2, c1, k60, u'jaouad').
+1678197348: New client connected from ::ffff:172.24.0.1:40280 as user-0333 (p2, c1, k60, u'jaouad').
+1678197357: Client user-053e closed its connection.
+1678197358: Client user-0333 closed its connection.
+1678197602: New client connected from ::ffff:172.24.0.1:36066 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678197662: New client connected from ::ffff:172.24.0.1:40300 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198000: Client user-4aa9 closed its connection.
+1678198051: New client connected from ::ffff:172.24.0.1:52762 as user-3e8e (p2, c1, k60, u'jaouad').
+1678198060: Client user-ea84 closed its connection.
+1678198143: New client connected from ::ffff:172.24.0.1:47848 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198203: New client connected from ::ffff:172.24.0.1:48778 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198203: Client user-4aa9 closed its connection.
+1678198263: New client connected from ::ffff:172.24.0.1:33938 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198263: Client user-ea84 closed its connection.
+1678198323: New client connected from ::ffff:172.24.0.1:34056 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198323: Client user-4aa9 closed its connection.
+1678198383: New client connected from ::ffff:172.24.0.1:47906 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198383: Client user-ea84 closed its connection.
+1678198443: New client connected from ::ffff:172.24.0.1:40238 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198443: Client user-4aa9 closed its connection.
+1678198445: Client user-3e8e closed its connection.
+1678198445: New client connected from ::ffff:172.24.0.1:52814 as user-c4cf (p2, c1, k60, u'jaouad').
+1678198449: New client connected from ::ffff:172.24.0.1:52834 as user-8b5e (p2, c1, k60, u'jaouad').
+1678198503: New client connected from ::ffff:172.24.0.1:52810 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198503: Client user-ea84 closed its connection.
+1678198563: New client connected from ::ffff:172.24.0.1:59486 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198563: Client user-4aa9 closed its connection.
+1678198577: New client connected from ::ffff:172.24.0.1:55162 as user-8f04 (p2, c1, k60, u'jaouad').
+1678198623: New client connected from ::ffff:172.24.0.1:47096 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198623: Client user-ea84 closed its connection.
+1678198683: New client connected from ::ffff:172.24.0.1:43134 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198683: Client user-4aa9 closed its connection.
+1678198743: New client connected from ::ffff:172.24.0.1:41966 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198743: Client user-ea84 closed its connection.
+1678198803: New client connected from ::ffff:172.24.0.1:55720 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198803: Client user-4aa9 closed its connection.
+1678198863: New client connected from ::ffff:172.24.0.1:59472 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198863: Client user-ea84 closed its connection.
+1678198912: Client user-c4cf closed its connection.
+1678198923: New client connected from ::ffff:172.24.0.1:47428 as user-ea84 (p2, c1, k60, u'jaouad').
+1678198923: Client user-4aa9 closed its connection.
+1678198943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1678198983: New client connected from ::ffff:172.24.0.1:36646 as user-4aa9 (p2, c1, k60, u'jaouad').
+1678198983: Client user-ea84 closed its connection.
+1678199014: Client user-8b5e closed its connection.
+1678199025: New client connected from ::ffff:172.24.0.1:47290 as user-c4cf (p2, c1, k60, u'jaouad').
+1678199025: Client user-c4cf closed its connection.
+1678199027: New client connected from ::ffff:172.24.0.1:41764 as user-c633 (p2, c1, k60, u'jaouad').
+1678199043: New client connected from ::ffff:172.24.0.1:47276 as user-ea84 (p2, c1, k60, u'jaouad').
+1678199043: Client user-4aa9 closed its connection.
+1678199069: Client <unknown> closed its connection.
+1678199074: Client user-ea84 closed its connection.
+1678199098: Client user-8f04 closed its connection.
+1678199162: Client user-c633 closed its connection.
+1678199163: New client connected from ::ffff:172.24.0.1:42594 as user-8b5e (p2, c1, k60, u'jaouad').
+1678199163: New client connected from ::ffff:172.24.0.1:54414 as user-4d2c (p2, c1, k60, u'jaouad').
+1678199166: Client user-8b5e closed its connection.
+1678199166: New client connected from ::ffff:172.24.0.1:54454 as user-8b5e (p2, c1, k60, u'jaouad').
+1678199170: Client user-8b5e closed its connection.
+1678199170: Client user-80a2 closed its connection.
+1678199172: Client user-80a2 closed its connection.
+1678199173: Client user-80a2 closed its connection.
+1678199175: Client user-80a2 closed its connection.
+1678199177: Client user-80a2 closed its connection.
+1678199179: Client user-80a2 closed its connection.
+1678199181: Client user-80a2 closed its connection.
+1678199183: Client user-80a2 closed its connection.
+1678199185: Client user-80a2 closed its connection.
+1678199187: Client user-80a2 closed its connection.
+1678199189: Client user-80a2 closed its connection.
+1678199189: Client user-4d2c closed its connection.
+1678199189: New client connected from ::ffff:172.24.0.1:35032 as user-2e5b (p2, c1, k60, u'jaouad').
+1678199191: Client user-80a2 closed its connection.
+1678199193: Client user-80a2 closed its connection.
+1678199194: Client user-80a2 closed its connection.
+1678199195: Client user-80a2 closed its connection.
+1678199197: Client user-80a2 closed its connection.
+1678199198: Client user-80a2 closed its connection.
+1678199200: Client user-80a2 closed its connection.
+1678199201: Client user-80a2 closed its connection.
+1678199202: Client user-80a2 closed its connection.
+1678199203: Client user-80a2 closed its connection.
+1678199205: Client user-80a2 closed its connection.
+1678199206: Client user-80a2 closed its connection.
+1678199207: Client user-caa9 closed its connection.
+1678199209: Client user-caa9 closed its connection.
+1678199211: Client user-caa9 closed its connection.
+1678199212: Client user-caa9 closed its connection.
+1678199214: Client user-caa9 closed its connection.
+1678199216: Client user-caa9 closed its connection.
+1678199216: Client user-2e5b closed its connection.
+1678199217: Client user-caa9 closed its connection.
+1678199219: Client user-caa9 closed its connection.
+1678199220: Client user-caa9 closed its connection.
+1678199222: Client user-caa9 closed its connection.
+1678199223: New client connected from ::ffff:172.24.0.1:54424 as user-8f04 (p2, c1, k60, u'jaouad').
+1678199223: Client user-8f04 closed its connection.
+1678199224: New client connected from ::ffff:172.24.0.1:59684 as user-8f04 (p2, c1, k60, u'jaouad').
+1678199326: Client user-8f04 closed its connection.
+1678199327: New client connected from ::ffff:172.24.0.1:55740 as user-8383 (p2, c1, k60, u'jaouad').
+1678199333: New client connected from ::ffff:172.24.0.1:37584 as user-e63d (p2, c1, k60, u'jaouad').
+1678199333: Client user-e63d closed its connection.
+1678199334: New client connected from ::ffff:172.24.0.1:37596 as user-7163 (p2, c1, k60, u'jaouad').
+1678199377: Client user-7163 closed its connection.
+1678199377: New client connected from ::ffff:172.24.0.1:49464 as user-c625 (p2, c1, k60, u'jaouad').
+1678199385: Client user-8383 closed its connection.
+1678199386: New client connected from ::ffff:172.24.0.1:37644 as user-6e24 (p2, c1, k60, u'jaouad').
+1678199392: Client user-c625 closed its connection.
+1678199393: Client user-6e24 closed its connection.
+1678199665: New client connected from ::ffff:172.24.0.1:54950 as user-7f3e (p2, c1, k60, u'jaouad').
+1678199665: Client user-7f3e closed its connection.
+1678199666: New client connected from ::ffff:172.24.0.1:54974 as user-de21 (p2, c1, k60, u'jaouad').
+1678199675: New client connected from ::ffff:172.24.0.1:55220 as user-1f99 (p2, c1, k60, u'jaouad').
+1678199682: Client user-1f99 closed its connection.
+1678199682: New client connected from ::ffff:172.24.0.1:50132 as user-06d2 (p2, c1, k60, u'jaouad').
+1678199685: Client user-06d2 closed its connection.
+1678199685: New client connected from ::ffff:172.24.0.1:50154 as user-1129 (p2, c1, k60, u'jaouad').
+1678199716: Client user-de21 closed its connection.
+1678199717: Client user-1129 closed its connection.
+1678199748: New client connected from ::ffff:172.24.0.1:39402 as user-627d (p2, c1, k60, u'jaouad').
+1678199752: New client connected from ::ffff:172.24.0.1:34740 as user-b00f (p2, c1, k60, u'jaouad').
+1678199785: Client user-627d closed its connection.
+1678199785: New client connected from ::ffff:172.24.0.1:36214 as user-51a5 (p2, c1, k60, u'jaouad').
+1678199787: Client user-b00f closed its connection.
+1678199787: New client connected from ::ffff:172.24.0.1:36220 as user-f634 (p2, c1, k60, u'jaouad').
+1678199989: Client user-f634 closed its connection.
+1678199990: New client connected from ::ffff:172.24.0.1:60922 as user-d700 (p2, c1, k60, u'jaouad').
+1678199991: Client user-51a5 closed its connection.
+1678199992: New client connected from ::ffff:172.24.0.1:39924 as user-39d2 (p2, c1, k60, u'jaouad').
+1678200012: New client connected from ::ffff:172.24.0.1:50074 as user-a0ed (p2, c1, k60, u'jaouad').
+1678200050: Client user-39d2 closed its connection.
+1678200050: New client connected from ::ffff:172.24.0.1:44510 as user-88f9 (p2, c1, k60, u'jaouad').
+1678200051: Client user-d700 closed its connection.
+1678200053: New client connected from ::ffff:172.24.0.1:44528 as user-22bd (p2, c1, k60, u'jaouad').
+1678200065: Client user-22bd closed its connection.
+1678200065: New client connected from ::ffff:172.24.0.1:39062 as user-d7cc (p2, c1, k60, u'jaouad').
+1678200082: Client user-88f9 closed its connection.
+1678200083: New client connected from ::ffff:172.24.0.1:51320 as user-1c4c (p2, c1, k60, u'jaouad').
+1678200089: Client user-1c4c closed its connection.
+1678200089: Client user-d7cc closed its connection.
+1678200177: Client user-a0ed closed its connection.
+1678200177: New client connected from ::ffff:172.24.0.1:48098 as user-49ff (p2, c1, k60, u'jaouad').
+1678200180: New client connected from ::ffff:172.24.0.1:57524 as user-5c2a (p2, c1, k60, u'jaouad').
+1678200437: Client user-49ff closed its connection.
+1678200438: New client connected from ::ffff:172.24.0.1:50582 as user-6231 (p2, c1, k50, u'jaouad').
+1678200438: Client user-5c2a closed its connection.
+1678200439: New client connected from ::ffff:172.24.0.1:50596 as user-800c (p2, c1, k50, u'jaouad').
+1678200444: Client user-6231 closed its connection.
+1678200444: Client user-800c closed its connection.
+1678200455: mosquitto version 2.0.15 terminating
+1678200455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1678201778: mosquitto version 2.0.15 starting
+1678201778: Config loaded from /mosquitto/config/mosquitto.conf.
+1678201778: Opening websockets listen socket on port 1884.
+1678201778: mosquitto version 2.0.15 running
+1678201786: New client connected from ::ffff:172.25.0.1:35298 as user-7ec8 (p2, c1, k50, u'jaouad').
+1678201788: New client connected from ::ffff:172.25.0.1:35328 as user-9597 (p2, c1, k50, u'jaouad').
+1678201799: Client user-7ec8 closed its connection.
+1678201800: Client user-9597 closed its connection.
+1678201970: mosquitto version 2.0.15 terminating
+1678201970: Saving in-memory database to /mosquitto/data//mosquitto.db.
