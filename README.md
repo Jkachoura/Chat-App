@@ -15,12 +15,13 @@ Installeer de volgende benodigheden als het nodig is
 
 
 ### Building
+1. Start Docker Desktop op.
 
-1. Treedt de folder binnen waar docker-compose.yml zit en voer de volgende commando uit in je terminal:
-
+2. Treedt de folder binnen waar docker-compose.yml zit en voer de volgende commando uit in je terminal:
 ```bash
 $ docker compose up -d
 ```
-2. Nu kan je 2 of meer webbrowsers openen op https://localhost en als je een bericht verzend op 1 van de webbrowsers is het ook te zien op de andere.
+
+3. Nu kan je 2 of meer webbrowsers openen op https://localhost en als je een bericht verzend op 1 van de webbrowsers is het ook te zien op de andere.
 
 **Note:** Wanneer je de pagina refreshed wordt er een nieuwe client gegenereerd, dus de messages die je aan het versturen was of ontvangen hebt worden gewist.
